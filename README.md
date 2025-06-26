@@ -77,8 +77,8 @@ CashWise is an intelligent SaaS platform that bridges the gap between finance te
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cashwise-mvp.git
-   cd cashwise-mvp
+   git clone https://github.com/fabimingyw/Cashwise_Fintech.git
+   cd Cashwise_Fintech
    ```
 
 2. **Install dependencies**
@@ -252,12 +252,6 @@ Date,Country,Component,Amount,Currency,EmployeeCount
 - **SMEs (50-500 employees)**: Non-financial departments needing forecast input
 - **Finance Teams**: Seeking better collaboration tools with other departments
 - **Consultants**: Financial advisors serving multiple SME clients
-
-### Pricing Strategy
-
-- **Basic Plan**: €99/month (small teams, 3 currencies, basic features)
-- **Professional Plan**: €249/month (advanced analytics, scenario planning)
-- **Enterprise Plan**: Custom pricing (API access, white-labeling, SLAs)
 
 ### Value Proposition Quantification
 
